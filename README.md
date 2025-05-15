@@ -51,3 +51,10 @@ json[
 --workers N: Number of concurrent worker threads (default: CPU cores)
 --timeout S: Timeout for each request in seconds (default: 5)
 --retries N: Number of retry attempts (default: 0)
+
+# Build release insturctions:
+```
+cargo build --release
+
+./target/release/website_project --file src/sites.txt
+```

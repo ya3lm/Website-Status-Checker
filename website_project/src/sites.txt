@@ -3,3 +3,8 @@ https://www.github.com
 https://www.stackoverflow.com
 https://www.fidelity.com
 https://www.instagram.com
+https://httpstat.us/200
+https://httpstat.us/404
+http://invalid-url
+https://httpstat.us/500?sleep=3000
+http://10.255.255.1
